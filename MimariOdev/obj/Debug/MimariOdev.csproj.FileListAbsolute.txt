@@ -1,0 +1,9 @@
+C:\Users\heydrich\Documents\Visual Studio 2013\Projects\MimariOdev\MimariOdev\bin\Debug\MimariOdev.exe.config
+C:\Users\heydrich\Documents\Visual Studio 2013\Projects\MimariOdev\MimariOdev\bin\Debug\MimariOdev.exe
+C:\Users\heydrich\Documents\Visual Studio 2013\Projects\MimariOdev\MimariOdev\bin\Debug\MimariOdev.pdb
+C:\Users\heydrich\Documents\Visual Studio 2013\Projects\MimariOdev\MimariOdev\obj\Debug\MimariOdev.csprojResolveAssemblyReference.cache
+C:\Users\heydrich\Documents\Visual Studio 2013\Projects\MimariOdev\MimariOdev\obj\Debug\MimariOdev.Form1.resources
+C:\Users\heydrich\Documents\Visual Studio 2013\Projects\MimariOdev\MimariOdev\obj\Debug\MimariOdev.Properties.Resources.resources
+C:\Users\heydrich\Documents\Visual Studio 2013\Projects\MimariOdev\MimariOdev\obj\Debug\MimariOdev.csproj.GenerateResource.Cache
+C:\Users\heydrich\Documents\Visual Studio 2013\Projects\MimariOdev\MimariOdev\obj\Debug\MimariOdev.exe
+C:\Users\heydrich\Documents\Visual Studio 2013\Projects\MimariOdev\MimariOdev\obj\Debug\MimariOdev.pdb
